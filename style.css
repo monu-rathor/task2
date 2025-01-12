@@ -1,0 +1,44 @@
+
+.nav-link{
+    padding: 10px 12px !important;
+    border-radius: 6px;
+}
+nav{
+    background-color: rgb(226, 221, 214);
+}
+
+.nav-link:hover{
+    background-color: skyblue;
+    color: white;
+}
+#services{
+    background-color: rgb(231, 224, 214);
+
+}
+
+.dropdown-menu{
+    background-color: skyblue;
+}
+
+.dropdown-item:hover{
+    background-color: skyblue;
+    color: white;
+}
+
+.contact-section{
+    background: linear-gradient(rgba(0,0,0,0.3), rgba(23, 42, 21, 0.4));
+    padding: 2rem 0;
+}
+
+.portfolio-item{
+    width: 100%;
+    height: 250px;
+    overflow: hidden;
+    border-radius: 4px;
+}
+
+.portfolio-item img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
